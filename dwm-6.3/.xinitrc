@@ -1,1 +1,1 @@
-.xinitrc
+/home/mith/.xinitrc
